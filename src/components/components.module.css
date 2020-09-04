@@ -1,0 +1,23 @@
+.flexRow{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 5px;
+  padding: 5px;
+  flex-wrap: wrap;
+}
+
+.card{
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-top: 5px;
+  padding: 0px;
+  width: 200px;
+  min-height: 50px;
+  margin: 10px;
+  flex-direction: row;
+  align-items: center;
+  display: flex;
+}
+
