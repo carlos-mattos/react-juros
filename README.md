@@ -27,13 +27,13 @@ O React-Juros foi um desafio desenvolvido no bootcamp fornecido pela [IGTI](http
 $ git clone https://github.com/carlos-mattos/react-juros.git
 # ou use a opção de download.
 
-# Entre na pasta server 
+# Entre na pasta react-juros
 $ cd react-juros
 
 # Instale as dependências
 $ npm install
 
-# Rode o servidor
+# Inicie o React
 $ npm start
 ```
 <br/>
